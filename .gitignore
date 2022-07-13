@@ -9,3 +9,29 @@ buildNumber.properties
 .mvn/timing.properties
 # https://github.com/takari/maven-wrapper#usage-without-binary-jar
 .mvn/wrapper/maven-wrapper.jar
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Jetbrains
+.idea/
+*.iml
+*.ipr
+*.iws
+*.ids
+
+# VSCode
+*.vscode
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Others
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
